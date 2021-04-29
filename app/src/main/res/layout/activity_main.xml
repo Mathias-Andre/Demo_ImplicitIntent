@@ -20,4 +20,10 @@
         android:layout_height="wrap_content"
         android:text="send email"/>
 
+    <Button
+        android:id="@+id/btnRP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RP"/>
+
 </LinearLayout>
